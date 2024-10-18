@@ -18,5 +18,8 @@
 
 ---
 
+## ![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGUTr9XzNw2rA/feedshare-shrink_1280/feedshare-shrink_1280/0/1729075021292?e=1732147200&v=beta&t=-fUddMT5Kv91ARwQiI08yLyRWKxMIR2XLlFZqAK-K_A "LinkedIn Learning Certificate of Completion")
+
 [Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
+
 [Certificate](https://www.linkedin.com/learning/certificates/c32e740d209382a8062c2178352085bfa3b84b16b03d36744841af8e80364176)
