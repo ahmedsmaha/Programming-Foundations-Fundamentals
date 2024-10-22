@@ -17,9 +17,10 @@ result = 5 - 3
 print("Challenge complete!")
 ```
 
-```
-Challenge 1:
-This is going to be tricky ;)
-2**3 = 8
-Challenge complete!
-```
+`Challenge 1:`
+
+`This is going to be tricky ;)`
+
+`2**3 = 8`
+
+`Challenge complete!`
