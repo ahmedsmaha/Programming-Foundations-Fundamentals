@@ -18,7 +18,7 @@
 
 ---
 
-## ![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGUTr9XzNw2rA/feedshare-shrink_1280/feedshare-shrink_1280/0/1729075021292?e=1732147200&v=beta&t=-fUddMT5Kv91ARwQiI08yLyRWKxMIR2XLlFZqAK-K_A "LinkedIn Learning Certificate of Completion")
+![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGUTr9XzNw2rA/feedshare-shrink_1280/feedshare-shrink_1280/0/1729075021292?e=1737590400&v=beta&t=g-of1DDm3a_QIYrWsd8USn6C_bqRnwOAQdnegTVVuwE "LinkedIn Learning Certificate of Completion")
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
 
